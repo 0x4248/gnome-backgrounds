@@ -2,6 +2,9 @@
 
 This module contains a set of backgrounds packaged with the GNOME desktop.
 
+>[!NOTE]
+> This is a forked repository from the GNOME backgrounds repository. The original repository can be found [here](https://gitlab.gnome.org/GNOME/backgrounds).
+
 ## Design Guidelines
 
 ![Defaults](defaults.webp)
